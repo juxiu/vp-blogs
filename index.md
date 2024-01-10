@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Please call me 郭洪涛"
-  text: "安徽汴和律师事务所实习律师"
-  tagline: 前怀远法院聘用制书记员
+  text: "安徽卞和律师事务所实习律师"
+  tagline: 怀远县人民法院前聘用制书记员
   actions:
     # - theme: brand
     #   text: Markdown Examples
