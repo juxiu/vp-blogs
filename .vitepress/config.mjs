@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "郭洪涛，立志成为碰瓷专业户",
-  description: "郭洪涛的个人站点",
+  title: "juxiu",
+  description: "something is happening",
   base: '/vp-blogs/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
